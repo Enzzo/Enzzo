@@ -10,6 +10,9 @@
 </a>
 <a href="https://leetcode.com/u/SergeyVasilev" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-black?logo=leetcode"/>
 </a>
+<a href="https://www.codewars.com/users/Enzzo" target="blank"><img align="center" src="https://img.shields.io/badge/-CodeWars-black?logo=codewars"/>
+</a>
+
 
 ### Languages:
 
