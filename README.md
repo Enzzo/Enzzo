@@ -1,19 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergey Vasilev</h1>
 <h3 align="center">A Passionate Software Engineer</h3>
 
-- Software Engineer at **Siemens Digital Industries Software**.
-
-- Former Software Engineer at **Wind Integrated Solutions**.
-
-- Former Intern at **IBM** and **Microsoft**.
-
-- Bachelor's Degree in Computer Science from **Cairo university**.
-
-- Reach me out using my E-mail: **enzzomatrix@gmail.com**
-
-- My Website: <a href="https://mahmoud-abdelazim.onrender.com" target="blank">Mahmoud Abdelazim</a>
-
-- Connect with me on <a href="https://linkedin.com/in/mahmoudabdelazim" target="blank"><img align="center" src="https://img.shields.io/badge/-Linkedin-0077B5?logo=Linkedin" width=80px alt="mahmoudabdelazim"/></a>
+- Reach me out using my E-mail: **enzzomatrix@gmail.com | vasilevnogliki@yandex.ru**
 
 ### My Tech-related Profiles:
 
