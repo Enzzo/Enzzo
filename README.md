@@ -5,10 +5,10 @@
 
 ### My Tech-related Profiles:
 
-<a href="https://codeforces.com/profile/enzzo" target="blank"><img align="center" src="https://img.shields.io/badge/-Codeforces-black?logo=codeforces" alt="enzzo"/></a>
-<a href="https://www.hackerrank.com/enzzo" target="blank"><img align="center" src="https://img.shields.io/badge/-HackerRank-black?logo=hackerrank" alt="enzzo"/>
+<a href="https://codeforces.com/profile/SergeyVasilev" target="blank"><img align="center" src="https://img.shields.io/badge/-Codeforces-black?logo=codeforces" alt="enzzo"/></a>
+<a href="https://www.hackerrank.com/profile/vasilevnogliki" target="blank"><img align="center" src="https://img.shields.io/badge/-HackerRank-black?logo=hackerrank" alt="enzzo"/>
 </a>
-<a href="https://www.leetcode.com/enzzo" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-black?logo=leetcode"/>
+<a href="https://leetcode.com/u/SergeyVasilev" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-black?logo=leetcode"/>
 </a>
 
 ### Languages:
