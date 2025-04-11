@@ -39,8 +39,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=enzzo&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enzzo&show_icons=true&locale=en&layout=compact&theme=dark" alt="enzzo" /><br>
 
-[![Sergey's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzzo)](https://github.com/enzzo/github-readme-stats)
-
 </div>
 
 <!--
