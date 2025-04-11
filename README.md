@@ -29,7 +29,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker)
 
 ### GitHub profile trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=enzzo&theme=dark)](https://github.com/enzzo/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=enzzo&theme=onedark)](https://github.com/enzzo/github-profile-trophy)
 
 ### Streak stats
 <div align="center">
