@@ -42,8 +42,9 @@
 </div>
 
 ### Codewars
-<div>  
-  [![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)
+<div>
+  [![codewars](https://www.codewars.com/users/enzzo/badges/large)](https://www.codewars.com/users/Enzzo)
+  [![codewars](https://www.codewars.com/users/Enzzo/badges/large)](https://www.codewars.com/users/Enzzo)
 </div>
 
 <!--
