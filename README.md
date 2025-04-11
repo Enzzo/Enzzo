@@ -28,6 +28,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=enzzo)](https://github.com/enzzo/github-profile-trophy)
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=enzzo&show_icons=true&locale=en&theme=dark" alt="enzzo" /><br>
