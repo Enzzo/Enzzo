@@ -42,10 +42,8 @@
 </div>
 
 ### Codewars
-<div>
-  [![codewars](https://www.codewars.com/users/enzzo/badges/large)](https://www.codewars.com/users/Enzzo)
-  [![codewars](https://www.codewars.com/users/Enzzo/badges/large)](https://www.codewars.com/users/Enzzo)
-</div>
+[![codewars](https://www.codewars.com/users/Enzzo/badges/large)](https://www.codewars.com/users/Enzzo)
+
 
 <!--
 - 🔭 I’m currently working on ...
