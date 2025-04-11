@@ -37,7 +37,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=enzzo&show_icons=true&locale=en&theme=dark" alt="enzzo" /><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=enzzo&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" /><br>
- 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=enzzo&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enzzo&show_icons=true&locale=en&layout=compact&theme=dark" alt="enzzo" />
 
 </div>
