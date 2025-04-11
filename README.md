@@ -45,8 +45,6 @@
 [![codewars](https://www.codewars.com/users/Enzzo/badges/large)](https://www.codewars.com/users/Enzzo)
 ### LeetCode:
 [![Sergey's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=SergeyVasilev&theme=dark)](https://github.com/SergeyVasilev/leetcode-stats)
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
